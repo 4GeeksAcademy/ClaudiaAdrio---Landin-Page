@@ -9,3 +9,19 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+
+.ballet-background {
+    background-image: url("https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/823be635995951.570bd2480b86e.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.texto-jumbotron {
+    line-height: 2;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
